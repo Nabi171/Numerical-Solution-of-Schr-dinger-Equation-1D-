@@ -20,4 +20,4 @@ This project simulates the time evolution of a quantum wave packet using the tim
 The simulation shows spreading of a Gaussian wave packet over time.
 
 ## Author
-Md Nabiul
+Md Nabiul Bashar
